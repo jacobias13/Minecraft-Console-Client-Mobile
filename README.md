@@ -1,5 +1,3 @@
-<div align="center">
-
 This project is a fork of Minecraft Console Client (MCC) by the MCC Team and contributors, adapted into a mobile chat client for iOS and Android.
 
 The entire project, including original code written for this fork (mobile UI, ad integration, purchase logic), is licensed under CDDL-1.0, consistent with the license of the upstream project it's built on.
@@ -10,8 +8,7 @@ Original MCC license headers and notices have been preserved in the files they o
 
 Credit: Core Minecraft protocol handling, authentication, and chat functionality are built on the work of the MCCTeam and the MCC project's contributors. This fork would not exist without their work reverse-engineering and maintaining support for the Minecraft protocol. Huge thank you to the team over there!
 
-
-
+<div align="center">
 
 <img src="https://i.pics.rs/LLDhE.png" alt="Logo"/>
 
